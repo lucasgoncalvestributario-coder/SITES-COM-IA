@@ -1,0 +1,6 @@
+{
+  "name": "Crie Sites com Inteligência Artificial",
+  "description": "Aprenda a criar sites profissionais do zero usando Inteligência Artificial — mesmo sem saber programar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
